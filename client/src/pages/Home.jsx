@@ -1,5 +1,3 @@
-import { Link } from "react-router-dom";
-import Product from "../components/Product";
 import ShoppingList from "../components/ShoppingList";
 
 const Home = ({ selectedProduct, setSelectedProduct }) => {
